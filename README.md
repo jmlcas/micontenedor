@@ -14,9 +14,11 @@ Ejecutar el script: sudo ./micontenedor.sh
 
 Ingresar nombre del contenedor.
 
-Ver vídeo:
+Ver vídeos:
 
 [![Alt text](https://img.youtube.com/vi/32ThBmKJV_A/0.jpg)](https://www.youtube.com/watch?v=32ThBmKJV_A)
+
+[![Alt text](https://img.youtube.com/vi/85E515DbTo8/0.jpg)](https://www.youtube.com/watch?v=85E515DbTo8)
 
 
 
